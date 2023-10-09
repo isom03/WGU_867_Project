@@ -1,0 +1,15 @@
+﻿  main.cpp
+  roster.cpp
+C:\Users\isom_\Documents\WGU\C867\roster.cpp(11,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isom_\Documents\WGU\C867\roster.cpp(15,63): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isom_\Documents\WGU\C867\roster.cpp(19,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isom_\Documents\WGU\C867\roster.cpp(23,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isom_\Documents\WGU\C867\roster.cpp(27,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isom_\Documents\WGU\C867\roster.cpp(32,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isom_\Documents\WGU\C867\roster.cpp(37,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isom_\Documents\WGU\C867\roster.cpp(42,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isom_\Documents\WGU\C867\roster.cpp(47,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  student.cpp
+  Generating Code...
+  LINK : C:\Users\isom_\Documents\WGU\C867\x64\Debug\Project4.exe not found or not built by the last incremental link; performing full link
+  Project4.vcxproj -> C:\Users\isom_\Documents\WGU\C867\x64\Debug\Project4.exe
